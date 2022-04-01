@@ -1,9 +1,11 @@
-test
-examples
-doc
-benchmark
-coverage
+.history
 .nyc_output
 .travis.yml
+benchmark
 CHANGELOG.md
+coverage
+debug.js
+doc
+examples
+test
 UPGRADING.md
